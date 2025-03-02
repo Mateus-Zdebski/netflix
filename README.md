@@ -25,10 +25,8 @@ Este projeto é uma recriação da interface da **Netflix**, desenvolvido com HT
 ```
 📦 Netflix-Clone
 ├── 📂 css         # Arquivos de estilo
-│   ├── style.css  # Estilos principais
 ├── 📂 images      # Imagens usadas no projeto
 ├── 📂 js          # Scripts do site
-│   ├── main.js    # Código JavaScript principal
 ├── 📂 video       # Vídeos (se aplicável)
 ├── index.html     # Página principal do site
 └── README.md      # Informações sobre o projeto
